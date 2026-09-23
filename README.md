@@ -1,12 +1,13 @@
-# Replication Package: Co-occurrence of HIV and Hypertension in Four African Countries
+# Replication Package: Co-occurrence of HIV and High Blood Pressure in Four African Countries
 
 ## Overview
 
 This repository contains the Stata replication code for the study:
 
-> **"Co-occurrence of HIV and Hypertension Among Women of Reproductive Age in Four Sub-Saharan African Countries: Evidence from Demographic and Health Surveys"**
+> **"Co-occurrence of chronic conditions in Southern and Western Africa: A survey-based analysis of the patterns of HIV and high blood pressure multimorbidity in girls and women."**
 >
 > Takhona G. Hlatshwako, Leah Frerichs, Larissa Jennings Mayo-Wilson, Tara Templin
+> 
 > DOI: [to be added upon publication]
 
 This study examines the co-occurrence of HIV and hypertension (high blood pressure) among women of reproductive age (15–49 years) in Lesotho, Ghana, Namibia, and South Africa using nationally representative Demographic and Health Surveys (DHS). Birth year is stratified into 10-year cohorts as the primary independent variable. A multinomial logistic regression model estimates the relative risk of four morbidity categories — HIV only, HBP only, HIV–HBP, and neither — by birth cohort, adjusting for sociodemographic covariates.
